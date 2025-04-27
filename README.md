@@ -1,7 +1,7 @@
 
 # Unofficial Implementation of the Paper "[Wanda++: Pruning Large Language Models via Regional Gradients](https://openreview.net/forum?id=WjnJf5ft0B&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FWorkshop%2FSLLM%2FAuthors%23your-submissions))"
 
----
+--- 
 
 The original paper was accepted at the ICLR 2025 Workshop on Sparsity in LLMs (SLLM), and we are reproducing the method described in the paper based on the provided details. The code is implemented based on the Wanda repository for easier follow-up. Some features, such as pruning across multiple GPUs, may not be available, and we are actively updating the code. Feel free to open an issue if you have any questions or suggestions.
 ## Issues – To Be Updated
